@@ -2,7 +2,7 @@ package kapitel_2;
 
 import java.util.Scanner;
 
-public class Låneberegner {
+public class Laaneberegner {
   public static void beregnLaan(){
     //Skab en Scanner
     Scanner input = new Scanner(System.in);
