@@ -2,7 +2,7 @@ package kapitel_2;
 
 import java.util.Scanner;
 
-public class FahrenheitTilCelsius {
+public class FahrenheitTilCelsiuskonverter {
   public static void fahrenheitTilCelsius(){
     Scanner input = new Scanner(System.in);
 
